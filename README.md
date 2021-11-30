@@ -1,2 +1,6 @@
 # Titanic-Survival-Prediction
-Titanic
+To predict if new passenger boarding in Titanic
+
+## Applied Model
+  - Logistic Regression
+  - KNearest Neigbors
